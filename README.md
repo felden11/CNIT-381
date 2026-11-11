@@ -26,4 +26,4 @@ Called the GitHub REST API from Python to read my repo and create an issue.
 ## Week 10: Ansible on a CSR with the DEVASC VM
 What I did: moved from CML to the DEVASC VM and a CSR1000v, set up the hosts
 inventory and ansible.cfg, backed up the config, and configured IPv6.
-What I learned: <your words>.
+What I learned: I learned how to use Ansible with the DEVASC VM to automatically back up a Cisco router's configuration and configure IPv6. This lab helped me understand how automation can make managing network devices easier and faster.
